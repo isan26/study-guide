@@ -100,7 +100,8 @@ https://www.youtube.com/watch?v=eOBq__h4OJ4
 https://www.youtube.com/watch?v=CkbkMznVqQk
 
 ## EKS
-https://www.youtube.com/watch?v=p6xDCz00TxU
+https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
+https://www.youtube.com/watch?v=7bA0gTroJjw&
 
 <br>
 <br>
