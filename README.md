@@ -64,12 +64,12 @@ Article (including TS for React)
 
 # NestJS
 Quick explanation
-https://www.youtube.com/watch?v=0M8AYU_hPas
+- https://www.youtube.com/watch?v=0M8AYU_hPas
 
 
 Full courses
-https://www.youtube.com/watch?v=pcX97ZrTE6M&list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr
-https://www.youtube.com/watch?v=F_oOtaxb0L8&t=260s
+- https://www.youtube.com/watch?v=pcX97ZrTE6M&list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr
+- https://www.youtube.com/watch?v=F_oOtaxb0L8&t=260s
 
 <br>
 <br>
@@ -96,13 +96,13 @@ https://www.mongodb.com/docs/manual/
 # AWS
 
 ## Lambdas
-https://www.youtube.com/watch?v=eOBq__h4OJ4
-https://www.youtube.com/watch?v=CkbkMznVqQk
+- https://www.youtube.com/watch?v=eOBq__h4OJ4
+- https://www.youtube.com/watch?v=CkbkMznVqQk
 
 ## EKS
-https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
-https://www.youtube.com/watch?v=CukYk43agA4
-https://www.youtube.com/watch?v=7bA0gTroJjw&
+- https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
+- https://www.youtube.com/watch?v=CukYk43agA4
+- https://www.youtube.com/watch?v=7bA0gTroJjw&
 
 <br>
 <br>
