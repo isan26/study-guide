@@ -101,6 +101,7 @@ https://www.youtube.com/watch?v=CkbkMznVqQk
 
 ## EKS
 https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
+https://www.youtube.com/watch?v=CukYk43agA4
 https://www.youtube.com/watch?v=7bA0gTroJjw&
 
 <br>
